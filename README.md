@@ -1,42 +1,93 @@
-# Material UI - Create React App example in TypeScript
+# Ask Bageera App
 
-## How to use
+Ask Bageera App is a frontend application built using ReactJS and Material-UI. \
+This application serves users like Product and Business Managers, enabling them \
+to interact with in-house structured data using natural language.
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+## Table of Contents
 
-<!-- #default-branch-switch -->
+- [Installation](#installation)
+- [Usage](#usage)
+- [Code Flow](#code-flow)
+- [License](#license)
 
-```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/material-cra-ts
-cd material-cra-ts
+## Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/sumveds/ask-bageera-app.git
+   cd ask-bageera-app
+   ```
+
+2. **Install dependencies:**
+
+   ```sh
+   npm install
+   ```
+
+3. **Run the application:**
+
+   ```bash
+   # To run it locally
+   $ npm run start:dev
+   ```
+
+## Usage
+
+The application will be available at `http://localhost:3001`.
+
+## Code Flow
+
+### Entry Point
+
+The entry point of the application is `index.tsx`, where the React app is rendered.
+
+```typescript
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import App from "./App";
+import { Auth0Provider } from "@auth0/auth0-react";
+
+const root = ReactDOM.createRoot(
+  document.getElementById("root") as HTMLElement
+);
+
+root.render(
+  <Auth0Provider
+    domain="dev-grekqp1gdk7jbvov.us.auth0.com"
+    clientId="raEoYn2Fg0bql9fuLKZlXFaxVA0h5FMd"
+    authorizationParams={{
+      redirect_uri: window.location.origin,
+    }}
+  >
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  </Auth0Provider>
+);
 ```
 
-Install it and run:
+### App Component
 
-```sh
-npm install
-npm start
-```
+The `App.js` file is the root component of the application. \
+It sets up routing and includes global providers.
 
-or:
+### Pages
 
-<!-- #default-branch-switch -->
+Pages are organized into folders based on their functionality:
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/material-cra-ts)
+- **Home:** Home page and its specific components.
+- **Chat:** Chat page and its specific components.
 
-<!-- #default-branch-switch -->
+Other pages follow a similar structure.
 
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/material-cra-ts)
+### Components
 
-## The idea behind the example
+Common components like Layout, Header, Spinner, and Error are defined in the components directory. \
+These components are reusable and help maintain consistency across the application.
 
-This example demonstrates how you can use Material UI with [Create React App](https://github.com/facebookincubator/create-react-app) in [TypeScript](https://github.com/Microsoft/TypeScript).
-It includes `@mui/material` and its peer dependencies, including [Emotion](https://emotion.sh/docs/introduction), the default style engine in Material UI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/material-ui/guides/interoperability/#styled-components).
+## License
 
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
