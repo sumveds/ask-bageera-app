@@ -1,0 +1,771 @@
+Date,Region,City,Total Sales Number
+02 Jan 23,West,Ahmedabad,237
+02 Jan 23,South,Bangalore,2847
+02 Jan 23,North,Chandigarh,779
+02 Jan 23,North,Delhi,4802
+02 Jan 23,Central,Mumbai,5890
+02 Jan 23,West ,Jaipur,166
+02 Jan 23,South,Chennai,1793
+02 Jan 23,East,Patna,1225
+02 Jan 23,East,Kolkata,3192
+02 Jan 23,Central,Bhopal,1049
+03 Jan 23,West,Ahmedabad,449
+03 Jan 23,South,Bangalore,3178
+03 Jan 23,North,Chandigarh,958
+03 Jan 23,North,Delhi,3890
+03 Jan 23,Central,Mumbai,2249
+03 Jan 23,West ,Jaipur,350
+03 Jan 23,South,Chennai,2711
+03 Jan 23,East,Patna,1924
+03 Jan 23,East,Kolkata,3273
+03 Jan 23,Central,Bhopal,767
+04 Jan 23,West,Ahmedabad,257
+04 Jan 23,South,Bangalore,2763
+04 Jan 23,North,Chandigarh,910
+04 Jan 23,North,Delhi,3841
+04 Jan 23,Central,Mumbai,2315
+04 Jan 23,West ,Jaipur,267
+04 Jan 23,South,Chennai,3349
+04 Jan 23,East,Patna,1056
+04 Jan 23,East,Kolkata,3990
+04 Jan 23,Central,Bhopal,591
+05 Jan 23,West,Ahmedabad,275
+05 Jan 23,South,Bangalore,4781
+05 Jan 23,North,Chandigarh,760
+05 Jan 23,North,Delhi,6262
+05 Jan 23,Central,Mumbai,5735
+05 Jan 23,West ,Jaipur,267
+05 Jan 23,South,Chennai,1912
+05 Jan 23,East,Patna,1143
+05 Jan 23,East,Kolkata,2323
+05 Jan 23,Central,Bhopal,848
+06 Jan 23,West,Ahmedabad,487
+06 Jan 23,South,Bangalore,3174
+06 Jan 23,North,Chandigarh,816
+06 Jan 23,North,Delhi,7969
+06 Jan 23,Central,Mumbai,5286
+06 Jan 23,West ,Jaipur,233
+06 Jan 23,South,Chennai,2452
+06 Jan 23,East,Patna,1744
+06 Jan 23,East,Kolkata,3901
+06 Jan 23,Central,Bhopal,1784
+07 Jan 23,West,Ahmedabad,250
+07 Jan 23,South,Bangalore,4968
+07 Jan 23,North,Chandigarh,970
+07 Jan 23,North,Delhi,5530
+07 Jan 23,Central,Mumbai,2793
+07 Jan 23,West ,Jaipur,297
+07 Jan 23,South,Chennai,1621
+07 Jan 23,East,Patna,1490
+07 Jan 23,East,Kolkata,1827
+07 Jan 23,Central,Bhopal,1693
+09 Jan 23,West,Ahmedabad,259
+09 Jan 23,South,Bangalore,3339
+09 Jan 23,North,Chandigarh,876
+09 Jan 23,North,Delhi,3011
+09 Jan 23,Central,Mumbai,3930
+09 Jan 23,West ,Jaipur,328
+09 Jan 23,South,Chennai,2326
+09 Jan 23,East,Patna,1828
+09 Jan 23,East,Kolkata,3008
+09 Jan 23,Central,Bhopal,1612
+10 Jan 23,West,Ahmedabad,358
+10 Jan 23,South,Bangalore,3377
+10 Jan 23,North,Chandigarh,818
+10 Jan 23,North,Delhi,6455
+10 Jan 23,Central,Mumbai,2416
+10 Jan 23,West ,Jaipur,184
+10 Jan 23,South,Chennai,1858
+10 Jan 23,East,Patna,1333
+10 Jan 23,East,Kolkata,2115
+10 Jan 23,Central,Bhopal,856
+11 Jan 23,West,Ahmedabad,311
+11 Jan 23,South,Bangalore,3961
+11 Jan 23,North,Chandigarh,774
+11 Jan 23,North,Delhi,3298
+11 Jan 23,Central,Mumbai,4808
+11 Jan 23,West ,Jaipur,397
+11 Jan 23,South,Chennai,2042
+11 Jan 23,East,Patna,1424
+11 Jan 23,East,Kolkata,3203
+11 Jan 23,Central,Bhopal,968
+12 Jan 23,West,Ahmedabad,328
+12 Jan 23,South,Bangalore,2723
+12 Jan 23,North,Chandigarh,1020
+12 Jan 23,North,Delhi,4761
+12 Jan 23,Central,Mumbai,4073
+12 Jan 23,West ,Jaipur,172
+12 Jan 23,South,Chennai,2563
+12 Jan 23,East,Patna,1908
+12 Jan 23,East,Kolkata,3556
+12 Jan 23,Central,Bhopal,1017
+13 Jan 23,West,Ahmedabad,295
+13 Jan 23,South,Bangalore,4757
+13 Jan 23,North,Chandigarh,435
+13 Jan 23,North,Delhi,6507
+13 Jan 23,Central,Mumbai,5195
+13 Jan 23,West ,Jaipur,203
+13 Jan 23,South,Chennai,2328
+13 Jan 23,East,Patna,1172
+13 Jan 23,East,Kolkata,2740
+13 Jan 23,Central,Bhopal,607
+14 Jan 23,West,Ahmedabad,217
+14 Jan 23,South,Bangalore,3990
+14 Jan 23,North,Chandigarh,684
+14 Jan 23,North,Delhi,3978
+14 Jan 23,Central,Mumbai,5966
+14 Jan 23,West ,Jaipur,240
+14 Jan 23,South,Chennai,1939
+14 Jan 23,East,Patna,1227
+14 Jan 23,East,Kolkata,2993
+14 Jan 23,Central,Bhopal,1434
+16 Jan 23,West,Ahmedabad,412
+16 Jan 23,South,Bangalore,4082
+16 Jan 23,North,Chandigarh,1146
+16 Jan 23,North,Delhi,6281
+16 Jan 23,Central,Mumbai,4843
+16 Jan 23,West ,Jaipur,291
+16 Jan 23,South,Chennai,2139
+16 Jan 23,East,Patna,1261
+16 Jan 23,East,Kolkata,3214
+16 Jan 23,Central,Bhopal,1325
+17 Jan 23,West,Ahmedabad,287
+17 Jan 23,South,Bangalore,4566
+17 Jan 23,North,Chandigarh,501
+17 Jan 23,North,Delhi,3044
+17 Jan 23,Central,Mumbai,3766
+17 Jan 23,West ,Jaipur,313
+17 Jan 23,South,Chennai,2056
+17 Jan 23,East,Patna,1643
+17 Jan 23,East,Kolkata,1676
+17 Jan 23,Central,Bhopal,1633
+18 Jan 23,West,Ahmedabad,265
+18 Jan 23,South,Bangalore,2344
+18 Jan 23,North,Chandigarh,1109
+18 Jan 23,North,Delhi,6066
+18 Jan 23,Central,Mumbai,5317
+18 Jan 23,West ,Jaipur,338
+18 Jan 23,South,Chennai,1792
+18 Jan 23,East,Patna,1700
+18 Jan 23,East,Kolkata,3775
+18 Jan 23,Central,Bhopal,1112
+19 Jan 23,West,Ahmedabad,288
+19 Jan 23,South,Bangalore,3273
+19 Jan 23,North,Chandigarh,994
+19 Jan 23,North,Delhi,4110
+19 Jan 23,Central,Mumbai,4617
+19 Jan 23,West ,Jaipur,327
+19 Jan 23,South,Chennai,1925
+19 Jan 23,East,Patna,1632
+19 Jan 23,East,Kolkata,3158
+19 Jan 23,Central,Bhopal,1345
+20 Jan 23,West,Ahmedabad,330
+20 Jan 23,South,Bangalore,3018
+20 Jan 23,North,Chandigarh,1023
+20 Jan 23,North,Delhi,6827
+20 Jan 23,Central,Mumbai,5269
+20 Jan 23,West ,Jaipur,385
+20 Jan 23,South,Chennai,2844
+20 Jan 23,East,Patna,1954
+20 Jan 23,East,Kolkata,3065
+20 Jan 23,Central,Bhopal,1411
+21 Jan 23,West,Ahmedabad,249
+21 Jan 23,South,Bangalore,2885
+21 Jan 23,North,Chandigarh,421
+21 Jan 23,North,Delhi,3590
+21 Jan 23,Central,Mumbai,3245
+21 Jan 23,West ,Jaipur,331
+21 Jan 23,South,Chennai,2356
+21 Jan 23,East,Patna,1603
+21 Jan 23,East,Kolkata,2452
+21 Jan 23,Central,Bhopal,985
+23 Jan 23,West,Ahmedabad,468
+23 Jan 23,South,Bangalore,4285
+23 Jan 23,North,Chandigarh,1193
+23 Jan 23,North,Delhi,5735
+23 Jan 23,Central,Mumbai,3687
+23 Jan 23,West ,Jaipur,217
+23 Jan 23,South,Chennai,3093
+23 Jan 23,East,Patna,1313
+23 Jan 23,East,Kolkata,2042
+23 Jan 23,Central,Bhopal,751
+24 Jan 23,West,Ahmedabad,392
+24 Jan 23,South,Bangalore,3037
+24 Jan 23,North,Chandigarh,791
+24 Jan 23,North,Delhi,7468
+24 Jan 23,Central,Mumbai,4079
+24 Jan 23,West ,Jaipur,368
+24 Jan 23,South,Chennai,2150
+24 Jan 23,East,Patna,1060
+24 Jan 23,East,Kolkata,2728
+24 Jan 23,Central,Bhopal,1840
+25 Jan 23,West,Ahmedabad,469
+25 Jan 23,South,Bangalore,4323
+25 Jan 23,North,Chandigarh,413
+25 Jan 23,North,Delhi,5638
+25 Jan 23,Central,Mumbai,2886
+25 Jan 23,West ,Jaipur,383
+25 Jan 23,South,Chennai,2726
+25 Jan 23,East,Patna,1212
+25 Jan 23,East,Kolkata,2036
+25 Jan 23,Central,Bhopal,1549
+26 Jan 23,West,Ahmedabad,345
+26 Jan 23,South,Bangalore,3928
+26 Jan 23,North,Chandigarh,1188
+26 Jan 23,North,Delhi,6992
+26 Jan 23,Central,Mumbai,4144
+26 Jan 23,West ,Jaipur,162
+26 Jan 23,South,Chennai,3373
+26 Jan 23,East,Patna,1946
+26 Jan 23,East,Kolkata,2761
+26 Jan 23,Central,Bhopal,1115
+27 Jan 23,West,Ahmedabad,324
+27 Jan 23,South,Bangalore,2462
+27 Jan 23,North,Chandigarh,1195
+27 Jan 23,North,Delhi,4002
+27 Jan 23,Central,Mumbai,2137
+27 Jan 23,West ,Jaipur,248
+27 Jan 23,South,Chennai,2675
+27 Jan 23,East,Patna,1669
+27 Jan 23,East,Kolkata,2024
+27 Jan 23,Central,Bhopal,1227
+28 Jan 23,West,Ahmedabad,422
+28 Jan 23,South,Bangalore,2031
+28 Jan 23,North,Chandigarh,650
+28 Jan 23,North,Delhi,5854
+28 Jan 23,Central,Mumbai,2924
+28 Jan 23,West ,Jaipur,250
+28 Jan 23,South,Chennai,1810
+28 Jan 23,East,Patna,1270
+28 Jan 23,East,Kolkata,3807
+28 Jan 23,Central,Bhopal,1203
+30 Jan 23,West,Ahmedabad,243
+30 Jan 23,South,Bangalore,2245
+30 Jan 23,North,Chandigarh,711
+30 Jan 23,North,Delhi,4599
+30 Jan 23,Central,Mumbai,4354
+30 Jan 23,West ,Jaipur,397
+30 Jan 23,South,Chennai,1920
+30 Jan 23,East,Patna,1912
+30 Jan 23,East,Kolkata,1901
+30 Jan 23,Central,Bhopal,1604
+31 Jan 23,West,Ahmedabad,301
+31 Jan 23,South,Bangalore,3564
+31 Jan 23,North,Chandigarh,853
+31 Jan 23,North,Delhi,5846
+31 Jan 23,Central,Mumbai,5383
+31 Jan 23,West ,Jaipur,316
+31 Jan 23,South,Chennai,1509
+31 Jan 23,East,Patna,1448
+31 Jan 23,East,Kolkata,3478
+31 Jan 23,Central,Bhopal,1432
+01 Feb 23,West,Ahmedabad,202
+01 Feb 23,South,Bangalore,2347
+01 Feb 23,North,Chandigarh,653
+01 Feb 23,North,Delhi,5577
+01 Feb 23,Central,Mumbai,3040
+01 Feb 23,West ,Jaipur,390
+01 Feb 23,South,Chennai,3112
+01 Feb 23,East,Patna,1991
+01 Feb 23,East,Kolkata,3001
+01 Feb 23,Central,Bhopal,1187
+02 Feb 23,West,Ahmedabad,448
+02 Feb 23,South,Bangalore,4554
+02 Feb 23,North,Chandigarh,937
+02 Feb 23,North,Delhi,5438
+02 Feb 23,Central,Mumbai,2244
+02 Feb 23,West ,Jaipur,273
+02 Feb 23,South,Chennai,1773
+02 Feb 23,East,Patna,1708
+02 Feb 23,East,Kolkata,3175
+02 Feb 23,Central,Bhopal,1251
+03 Feb 23,West,Ahmedabad,474
+03 Feb 23,South,Bangalore,3857
+03 Feb 23,North,Chandigarh,935
+03 Feb 23,North,Delhi,3628
+03 Feb 23,Central,Mumbai,3486
+03 Feb 23,West ,Jaipur,188
+03 Feb 23,South,Chennai,2957
+03 Feb 23,East,Patna,1373
+03 Feb 23,East,Kolkata,1991
+03 Feb 23,Central,Bhopal,1680
+04 Feb 23,West,Ahmedabad,450
+04 Feb 23,South,Bangalore,4113
+04 Feb 23,North,Chandigarh,518
+04 Feb 23,North,Delhi,4094
+04 Feb 23,Central,Mumbai,2421
+04 Feb 23,West ,Jaipur,373
+04 Feb 23,South,Chennai,2773
+04 Feb 23,East,Patna,1078
+04 Feb 23,East,Kolkata,1589
+04 Feb 23,Central,Bhopal,1240
+06 Feb 23,West,Ahmedabad,269
+06 Feb 23,South,Bangalore,4977
+06 Feb 23,North,Chandigarh,1098
+06 Feb 23,North,Delhi,6128
+06 Feb 23,Central,Mumbai,2880
+06 Feb 23,West ,Jaipur,363
+06 Feb 23,South,Chennai,2860
+06 Feb 23,East,Patna,1157
+06 Feb 23,East,Kolkata,3641
+06 Feb 23,Central,Bhopal,511
+07 Feb 23,West,Ahmedabad,384
+07 Feb 23,South,Bangalore,2311
+07 Feb 23,North,Chandigarh,728
+07 Feb 23,North,Delhi,4010
+07 Feb 23,Central,Mumbai,3462
+07 Feb 23,West ,Jaipur,294
+07 Feb 23,South,Chennai,2759
+07 Feb 23,East,Patna,1594
+07 Feb 23,East,Kolkata,3149
+07 Feb 23,Central,Bhopal,1682
+08 Feb 23,West,Ahmedabad,479
+08 Feb 23,South,Bangalore,4244
+08 Feb 23,North,Chandigarh,531
+08 Feb 23,North,Delhi,6680
+08 Feb 23,Central,Mumbai,3570
+08 Feb 23,West ,Jaipur,157
+08 Feb 23,South,Chennai,2670
+08 Feb 23,East,Patna,1001
+08 Feb 23,East,Kolkata,2679
+08 Feb 23,Central,Bhopal,1920
+09 Feb 23,West,Ahmedabad,427
+09 Feb 23,South,Bangalore,3859
+09 Feb 23,North,Chandigarh,1097
+09 Feb 23,North,Delhi,4418
+09 Feb 23,Central,Mumbai,5553
+09 Feb 23,West ,Jaipur,170
+09 Feb 23,South,Chennai,2828
+09 Feb 23,East,Patna,1795
+09 Feb 23,East,Kolkata,2392
+09 Feb 23,Central,Bhopal,514
+10 Feb 23,West,Ahmedabad,437
+10 Feb 23,South,Bangalore,4631
+10 Feb 23,North,Chandigarh,929
+10 Feb 23,North,Delhi,3072
+10 Feb 23,Central,Mumbai,2644
+10 Feb 23,West ,Jaipur,154
+10 Feb 23,South,Chennai,2529
+10 Feb 23,East,Patna,1755
+10 Feb 23,East,Kolkata,2718
+10 Feb 23,Central,Bhopal,1628
+11 Feb 23,West,Ahmedabad,377
+11 Feb 23,South,Bangalore,2388
+11 Feb 23,North,Chandigarh,927
+11 Feb 23,North,Delhi,3125
+11 Feb 23,Central,Mumbai,4566
+11 Feb 23,West ,Jaipur,251
+11 Feb 23,South,Chennai,1921
+11 Feb 23,East,Patna,1050
+11 Feb 23,East,Kolkata,2128
+11 Feb 23,Central,Bhopal,739
+13 Feb 23,West,Ahmedabad,303
+13 Feb 23,South,Bangalore,2012
+13 Feb 23,North,Chandigarh,616
+13 Feb 23,North,Delhi,7756
+13 Feb 23,Central,Mumbai,5201
+13 Feb 23,West ,Jaipur,161
+13 Feb 23,South,Chennai,1659
+13 Feb 23,East,Patna,1931
+13 Feb 23,East,Kolkata,3725
+13 Feb 23,Central,Bhopal,1238
+14 Feb 23,West,Ahmedabad,267
+14 Feb 23,South,Bangalore,4306
+14 Feb 23,North,Chandigarh,802
+14 Feb 23,North,Delhi,6044
+14 Feb 23,Central,Mumbai,4832
+14 Feb 23,West ,Jaipur,208
+14 Feb 23,South,Chennai,3044
+14 Feb 23,East,Patna,1374
+14 Feb 23,East,Kolkata,2100
+14 Feb 23,Central,Bhopal,1894
+15 Feb 23,West,Ahmedabad,440
+15 Feb 23,South,Bangalore,3389
+15 Feb 23,North,Chandigarh,739
+15 Feb 23,North,Delhi,7272
+15 Feb 23,Central,Mumbai,3081
+15 Feb 23,West ,Jaipur,236
+15 Feb 23,South,Chennai,2994
+15 Feb 23,East,Patna,1754
+15 Feb 23,East,Kolkata,1945
+15 Feb 23,Central,Bhopal,528
+16 Feb 23,West,Ahmedabad,456
+16 Feb 23,South,Bangalore,3574
+16 Feb 23,North,Chandigarh,733
+16 Feb 23,North,Delhi,7187
+16 Feb 23,Central,Mumbai,4982
+16 Feb 23,West ,Jaipur,389
+16 Feb 23,South,Chennai,2843
+16 Feb 23,East,Patna,1436
+16 Feb 23,East,Kolkata,3100
+16 Feb 23,Central,Bhopal,646
+17 Feb 23,West,Ahmedabad,463
+17 Feb 23,South,Bangalore,4194
+17 Feb 23,North,Chandigarh,499
+17 Feb 23,North,Delhi,5074
+17 Feb 23,Central,Mumbai,4051
+17 Feb 23,West ,Jaipur,385
+17 Feb 23,South,Chennai,2271
+17 Feb 23,East,Patna,1006
+17 Feb 23,East,Kolkata,2148
+17 Feb 23,Central,Bhopal,597
+18 Feb 23,West,Ahmedabad,232
+18 Feb 23,South,Bangalore,4862
+18 Feb 23,North,Chandigarh,1115
+18 Feb 23,North,Delhi,4039
+18 Feb 23,Central,Mumbai,5057
+18 Feb 23,West ,Jaipur,226
+18 Feb 23,South,Chennai,3063
+18 Feb 23,East,Patna,1280
+18 Feb 23,East,Kolkata,1619
+18 Feb 23,Central,Bhopal,706
+20 Feb 23,West,Ahmedabad,500
+20 Feb 23,South,Bangalore,4089
+20 Feb 23,North,Chandigarh,463
+20 Feb 23,North,Delhi,7213
+20 Feb 23,Central,Mumbai,5470
+20 Feb 23,West ,Jaipur,381
+20 Feb 23,South,Chennai,2086
+20 Feb 23,East,Patna,1445
+20 Feb 23,East,Kolkata,2661
+20 Feb 23,Central,Bhopal,510
+21 Feb 23,West,Ahmedabad,348
+21 Feb 23,South,Bangalore,2222
+21 Feb 23,North,Chandigarh,514
+21 Feb 23,North,Delhi,7855
+21 Feb 23,Central,Mumbai,3823
+21 Feb 23,West ,Jaipur,243
+21 Feb 23,South,Chennai,1874
+21 Feb 23,East,Patna,1239
+21 Feb 23,East,Kolkata,1534
+21 Feb 23,Central,Bhopal,771
+22 Feb 23,West,Ahmedabad,288
+22 Feb 23,South,Bangalore,2353
+22 Feb 23,North,Chandigarh,632
+22 Feb 23,North,Delhi,4983
+22 Feb 23,Central,Mumbai,4911
+22 Feb 23,West ,Jaipur,397
+22 Feb 23,South,Chennai,3087
+22 Feb 23,East,Patna,1043
+22 Feb 23,East,Kolkata,2973
+22 Feb 23,Central,Bhopal,739
+23 Feb 23,West,Ahmedabad,361
+23 Feb 23,South,Bangalore,4987
+23 Feb 23,North,Chandigarh,785
+23 Feb 23,North,Delhi,6118
+23 Feb 23,Central,Mumbai,2794
+23 Feb 23,West ,Jaipur,396
+23 Feb 23,South,Chennai,2725
+23 Feb 23,East,Patna,1636
+23 Feb 23,East,Kolkata,3228
+23 Feb 23,Central,Bhopal,1214
+24 Feb 23,West,Ahmedabad,259
+24 Feb 23,South,Bangalore,3151
+24 Feb 23,North,Chandigarh,833
+24 Feb 23,North,Delhi,5515
+24 Feb 23,Central,Mumbai,5238
+24 Feb 23,West ,Jaipur,274
+24 Feb 23,South,Chennai,2353
+24 Feb 23,East,Patna,1245
+24 Feb 23,East,Kolkata,3528
+24 Feb 23,Central,Bhopal,1170
+25 Feb 23,West,Ahmedabad,479
+25 Feb 23,South,Bangalore,2782
+25 Feb 23,North,Chandigarh,1176
+25 Feb 23,North,Delhi,6910
+25 Feb 23,Central,Mumbai,4041
+25 Feb 23,West ,Jaipur,261
+25 Feb 23,South,Chennai,2440
+25 Feb 23,East,Patna,1448
+25 Feb 23,East,Kolkata,2192
+25 Feb 23,Central,Bhopal,884
+27 Feb 23,West,Ahmedabad,360
+27 Feb 23,South,Bangalore,4907
+27 Feb 23,North,Chandigarh,506
+27 Feb 23,North,Delhi,5886
+27 Feb 23,Central,Mumbai,3746
+27 Feb 23,West ,Jaipur,188
+27 Feb 23,South,Chennai,1732
+27 Feb 23,East,Patna,1569
+27 Feb 23,East,Kolkata,3437
+27 Feb 23,Central,Bhopal,515
+28 Feb 23,West,Ahmedabad,377
+28 Feb 23,South,Bangalore,4280
+28 Feb 23,North,Chandigarh,741
+28 Feb 23,North,Delhi,3800
+28 Feb 23,Central,Mumbai,3816
+28 Feb 23,West ,Jaipur,215
+28 Feb 23,South,Chennai,2274
+28 Feb 23,East,Patna,1934
+28 Feb 23,East,Kolkata,3944
+28 Feb 23,Central,Bhopal,1692
+01 Mar 23,West,Ahmedabad,322
+01 Mar 23,South,Bangalore,2306
+01 Mar 23,North,Chandigarh,826
+01 Mar 23,North,Delhi,3247
+01 Mar 23,Central,Mumbai,4181
+01 Mar 23,West ,Jaipur,213
+01 Mar 23,South,Chennai,2931
+01 Mar 23,East,Patna,1274
+01 Mar 23,East,Kolkata,3532
+01 Mar 23,Central,Bhopal,1084
+02 Mar 23,West,Ahmedabad,407
+02 Mar 23,South,Bangalore,2919
+02 Mar 23,North,Chandigarh,457
+02 Mar 23,North,Delhi,7848
+02 Mar 23,Central,Mumbai,2478
+02 Mar 23,West ,Jaipur,169
+02 Mar 23,South,Chennai,1875
+02 Mar 23,East,Patna,1474
+02 Mar 23,East,Kolkata,2733
+02 Mar 23,Central,Bhopal,1769
+03 Mar 23,West,Ahmedabad,474
+03 Mar 23,South,Bangalore,3792
+03 Mar 23,North,Chandigarh,552
+03 Mar 23,North,Delhi,3461
+03 Mar 23,Central,Mumbai,4613
+03 Mar 23,West ,Jaipur,162
+03 Mar 23,South,Chennai,3093
+03 Mar 23,East,Patna,1812
+03 Mar 23,East,Kolkata,1771
+03 Mar 23,Central,Bhopal,1074
+04 Mar 23,West,Ahmedabad,470
+04 Mar 23,South,Bangalore,3038
+04 Mar 23,North,Chandigarh,691
+04 Mar 23,North,Delhi,4870
+04 Mar 23,Central,Mumbai,5016
+04 Mar 23,West ,Jaipur,349
+04 Mar 23,South,Chennai,3024
+04 Mar 23,East,Patna,1193
+04 Mar 23,East,Kolkata,3192
+04 Mar 23,Central,Bhopal,1096
+06 Mar 23,West,Ahmedabad,387
+06 Mar 23,South,Bangalore,2673
+06 Mar 23,North,Chandigarh,1066
+06 Mar 23,North,Delhi,5839
+06 Mar 23,Central,Mumbai,3546
+06 Mar 23,West ,Jaipur,222
+06 Mar 23,South,Chennai,3281
+06 Mar 23,East,Patna,1774
+06 Mar 23,East,Kolkata,2816
+06 Mar 23,Central,Bhopal,1338
+07 Mar 23,West,Ahmedabad,331
+07 Mar 23,South,Bangalore,3403
+07 Mar 23,North,Chandigarh,858
+07 Mar 23,North,Delhi,7464
+07 Mar 23,Central,Mumbai,3279
+07 Mar 23,West ,Jaipur,284
+07 Mar 23,South,Chennai,2701
+07 Mar 23,East,Patna,1177
+07 Mar 23,East,Kolkata,2440
+07 Mar 23,Central,Bhopal,564
+08 Mar 23,West,Ahmedabad,500
+08 Mar 23,South,Bangalore,2261
+08 Mar 23,North,Chandigarh,844
+08 Mar 23,North,Delhi,3678
+08 Mar 23,Central,Mumbai,3007
+08 Mar 23,West ,Jaipur,252
+08 Mar 23,South,Chennai,3498
+08 Mar 23,East,Patna,1073
+08 Mar 23,East,Kolkata,2028
+08 Mar 23,Central,Bhopal,667
+09 Mar 23,West,Ahmedabad,327
+09 Mar 23,South,Bangalore,4664
+09 Mar 23,North,Chandigarh,656
+09 Mar 23,North,Delhi,7546
+09 Mar 23,Central,Mumbai,4873
+09 Mar 23,West ,Jaipur,351
+09 Mar 23,South,Chennai,2352
+09 Mar 23,East,Patna,1324
+09 Mar 23,East,Kolkata,3822
+09 Mar 23,Central,Bhopal,1930
+10 Mar 23,West,Ahmedabad,367
+10 Mar 23,South,Bangalore,3917
+10 Mar 23,North,Chandigarh,504
+10 Mar 23,North,Delhi,7013
+10 Mar 23,Central,Mumbai,4577
+10 Mar 23,West ,Jaipur,198
+10 Mar 23,South,Chennai,3269
+10 Mar 23,East,Patna,1295
+10 Mar 23,East,Kolkata,2215
+10 Mar 23,Central,Bhopal,1545
+11 Mar 23,West,Ahmedabad,464
+11 Mar 23,South,Bangalore,4572
+11 Mar 23,North,Chandigarh,1090
+11 Mar 23,North,Delhi,6183
+11 Mar 23,Central,Mumbai,3746
+11 Mar 23,West ,Jaipur,286
+11 Mar 23,South,Chennai,2032
+11 Mar 23,East,Patna,1178
+11 Mar 23,East,Kolkata,2947
+11 Mar 23,Central,Bhopal,1992
+13 Mar 23,West,Ahmedabad,309
+13 Mar 23,South,Bangalore,4325
+13 Mar 23,North,Chandigarh,586
+13 Mar 23,North,Delhi,6777
+13 Mar 23,Central,Mumbai,4629
+13 Mar 23,West ,Jaipur,164
+13 Mar 23,South,Chennai,1584
+13 Mar 23,East,Patna,1243
+13 Mar 23,East,Kolkata,3612
+13 Mar 23,Central,Bhopal,957
+14 Mar 23,West,Ahmedabad,275
+14 Mar 23,South,Bangalore,3170
+14 Mar 23,North,Chandigarh,679
+14 Mar 23,North,Delhi,7324
+14 Mar 23,Central,Mumbai,5655
+14 Mar 23,West ,Jaipur,291
+14 Mar 23,South,Chennai,2052
+14 Mar 23,East,Patna,1791
+14 Mar 23,East,Kolkata,3519
+14 Mar 23,Central,Bhopal,988
+15 Mar 23,West,Ahmedabad,291
+15 Mar 23,South,Bangalore,2591
+15 Mar 23,North,Chandigarh,1044
+15 Mar 23,North,Delhi,3554
+15 Mar 23,Central,Mumbai,4108
+15 Mar 23,West ,Jaipur,329
+15 Mar 23,South,Chennai,1920
+15 Mar 23,East,Patna,1322
+15 Mar 23,East,Kolkata,3257
+15 Mar 23,Central,Bhopal,1390
+16 Mar 23,West,Ahmedabad,205
+16 Mar 23,South,Bangalore,4330
+16 Mar 23,North,Chandigarh,578
+16 Mar 23,North,Delhi,7103
+16 Mar 23,Central,Mumbai,2670
+16 Mar 23,West ,Jaipur,155
+16 Mar 23,South,Chennai,3329
+16 Mar 23,East,Patna,1805
+16 Mar 23,East,Kolkata,2483
+16 Mar 23,Central,Bhopal,1135
+17 Mar 23,West,Ahmedabad,409
+17 Mar 23,South,Bangalore,4777
+17 Mar 23,North,Chandigarh,1069
+17 Mar 23,North,Delhi,5195
+17 Mar 23,Central,Mumbai,2941
+17 Mar 23,West ,Jaipur,243
+17 Mar 23,South,Chennai,2924
+17 Mar 23,East,Patna,1900
+17 Mar 23,East,Kolkata,3773
+17 Mar 23,Central,Bhopal,1200
+18 Mar 23,West,Ahmedabad,240
+18 Mar 23,South,Bangalore,4684
+18 Mar 23,North,Chandigarh,526
+18 Mar 23,North,Delhi,4476
+18 Mar 23,Central,Mumbai,2540
+18 Mar 23,West ,Jaipur,365
+18 Mar 23,South,Chennai,2550
+18 Mar 23,East,Patna,1185
+18 Mar 23,East,Kolkata,3404
+18 Mar 23,Central,Bhopal,552
+20 Mar 23,West,Ahmedabad,209
+20 Mar 23,South,Bangalore,3904
+20 Mar 23,North,Chandigarh,605
+20 Mar 23,North,Delhi,5478
+20 Mar 23,Central,Mumbai,4286
+20 Mar 23,West ,Jaipur,385
+20 Mar 23,South,Chennai,2325
+20 Mar 23,East,Patna,1984
+20 Mar 23,East,Kolkata,3284
+20 Mar 23,Central,Bhopal,1754
+21 Mar 23,West,Ahmedabad,458
+21 Mar 23,South,Bangalore,4877
+21 Mar 23,North,Chandigarh,442
+21 Mar 23,North,Delhi,3112
+21 Mar 23,Central,Mumbai,2189
+21 Mar 23,West ,Jaipur,301
+21 Mar 23,South,Chennai,1739
+21 Mar 23,East,Patna,1880
+21 Mar 23,East,Kolkata,2946
+21 Mar 23,Central,Bhopal,1171
+22 Mar 23,West,Ahmedabad,306
+22 Mar 23,South,Bangalore,2922
+22 Mar 23,North,Chandigarh,832
+22 Mar 23,North,Delhi,4959
+22 Mar 23,Central,Mumbai,5506
+22 Mar 23,West ,Jaipur,156
+22 Mar 23,South,Chennai,2438
+22 Mar 23,East,Patna,1554
+22 Mar 23,East,Kolkata,2820
+22 Mar 23,Central,Bhopal,1084
+23 Mar 23,West,Ahmedabad,471
+23 Mar 23,South,Bangalore,4604
+23 Mar 23,North,Chandigarh,450
+23 Mar 23,North,Delhi,4649
+23 Mar 23,Central,Mumbai,5259
+23 Mar 23,West ,Jaipur,247
+23 Mar 23,South,Chennai,2310
+23 Mar 23,East,Patna,1561
+23 Mar 23,East,Kolkata,3013
+23 Mar 23,Central,Bhopal,1308
+24 Mar 23,West,Ahmedabad,494
+24 Mar 23,South,Bangalore,2164
+24 Mar 23,North,Chandigarh,1083
+24 Mar 23,North,Delhi,5747
+24 Mar 23,Central,Mumbai,2420
+24 Mar 23,West ,Jaipur,212
+24 Mar 23,South,Chennai,2891
+24 Mar 23,East,Patna,1993
+24 Mar 23,East,Kolkata,3661
+24 Mar 23,Central,Bhopal,569
+25 Mar 23,West,Ahmedabad,261
+25 Mar 23,South,Bangalore,3362
+25 Mar 23,North,Chandigarh,494
+25 Mar 23,North,Delhi,6327
+25 Mar 23,Central,Mumbai,2762
+25 Mar 23,West ,Jaipur,183
+25 Mar 23,South,Chennai,1769
+25 Mar 23,East,Patna,1181
+25 Mar 23,East,Kolkata,2072
+25 Mar 23,Central,Bhopal,737
+27 Mar 23,West,Ahmedabad,479
+27 Mar 23,South,Bangalore,3892
+27 Mar 23,North,Chandigarh,723
+27 Mar 23,North,Delhi,3766
+27 Mar 23,Central,Mumbai,2313
+27 Mar 23,West ,Jaipur,293
+27 Mar 23,South,Chennai,2199
+27 Mar 23,East,Patna,1279
+27 Mar 23,East,Kolkata,3081
+27 Mar 23,Central,Bhopal,829
+28 Mar 23,West,Ahmedabad,479
+28 Mar 23,South,Bangalore,3659
+28 Mar 23,North,Chandigarh,700
+28 Mar 23,North,Delhi,5468
+28 Mar 23,Central,Mumbai,2109
+28 Mar 23,West ,Jaipur,346
+28 Mar 23,South,Chennai,2819
+28 Mar 23,East,Patna,1582
+28 Mar 23,East,Kolkata,1554
+28 Mar 23,Central,Bhopal,730
+29 Mar 23,West,Ahmedabad,217
+29 Mar 23,South,Bangalore,2221
+29 Mar 23,North,Chandigarh,476
+29 Mar 23,North,Delhi,5844
+29 Mar 23,Central,Mumbai,3274
+29 Mar 23,West ,Jaipur,359
+29 Mar 23,South,Chennai,2624
+29 Mar 23,East,Patna,1025
+29 Mar 23,East,Kolkata,1916
+29 Mar 23,Central,Bhopal,651
+30 Mar 23,West,Ahmedabad,216
+30 Mar 23,South,Bangalore,3788
+30 Mar 23,North,Chandigarh,1093
+30 Mar 23,North,Delhi,7079
+30 Mar 23,Central,Mumbai,3125
+30 Mar 23,West ,Jaipur,323
+30 Mar 23,South,Chennai,1534
+30 Mar 23,East,Patna,1657
+30 Mar 23,East,Kolkata,2086
+30 Mar 23,Central,Bhopal,1452
+31 Mar 23,West,Ahmedabad,259
+31 Mar 23,South,Bangalore,3571
+31 Mar 23,North,Chandigarh,538
+31 Mar 23,North,Delhi,5688
+31 Mar 23,Central,Mumbai,5065
+31 Mar 23,West ,Jaipur,393
+31 Mar 23,South,Chennai,2127
+31 Mar 23,East,Patna,1992
+31 Mar 23,East,Kolkata,2512
+31 Mar 23,Central,Bhopal,988

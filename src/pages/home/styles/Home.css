@@ -1,0 +1,19 @@
+.Icons-Label {
+  font-family: 'Open Sans';
+  font-size: 14px;
+  text-align: center;
+  padding-top: 4px;
+}
+
+.Icons-Svg {
+  margin-bottom: 10px;
+}
+
+.Icons-Gray {
+  opacity: 0.6;
+  filter: opacity(60%);
+}
+
+.Spreadsheet {
+  filter: opacity(30%);
+}

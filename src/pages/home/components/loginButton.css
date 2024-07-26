@@ -1,0 +1,16 @@
+.loginButton {
+  background-image: linear-gradient(to right, #5e93cf, #303a44);
+  width: 120px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  height: 40px;
+  text-align: center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 20px;
+  position: absolute;
+  right: 20px;
+  margin-top: -5px;
+}
